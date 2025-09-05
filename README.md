@@ -21,6 +21,12 @@ A simple responsive landing page for a headphone company. The project demonstrat
 
 ---
 
+## 🎬 Live Demo
+
+🔗 **[Live Demo]([https://mohamed-gaber53.github.io/alx-headphones-template/])**
+
+---
+
 ## 📂 Project Structure
 
 ```
